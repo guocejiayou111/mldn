@@ -3,6 +3,7 @@ public class Admin{
 	privte String deptName;
 	private String address;
 	private Double sale;
+	private Date lastLogin;
 	
 	public String toString(){
 		return "哈哈哈";
