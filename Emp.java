@@ -4,4 +4,8 @@ public class Emp{
 	privte int sex;
 	private String hobby;
 	private Double sale;
+	
+	public String toString(){
+		return "aaa";
+	}
 }
