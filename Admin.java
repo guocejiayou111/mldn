@@ -5,6 +5,6 @@ public class Admin{
 	private Double sale;
 	
 	public String toString(){
-		return "bbb";
+		return "哈哈哈";
 	}
 }
