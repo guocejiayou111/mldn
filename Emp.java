@@ -3,4 +3,5 @@ public class Emp{
 	private int age;
 	privte int sex;
 	private String hobby;
+	private Double sale;
 }
